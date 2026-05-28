@@ -1,0 +1,43 @@
+{
+  "brand": {
+    "name": "ClarityLab",
+    "tagline": "Peritaje de Audio Forense",
+    "description": "Laboratorio de análisis técnico especializado, autenticación de grabaciones y peritajes periciales para uso legal en Lima, Perú.",
+    "website": "https://claritylab.pe",
+    "location": "Lima, Perú"
+  },
+  "colors": {
+    "primary": {
+      "navy_deep": "#0D1B2A",
+      "navy_mid": "#162336",
+      "steel_blue": "#2D4A5E"
+    },
+    "accent": "#4BA3C7",
+    "text": {
+      "primary": "#FFFFFF",
+      "secondary": "#7099AF"
+    }
+  },
+  "typography": {
+    "font_family": "Montserrat",
+    "weights": {
+      "titles": 600,
+      "body": 400
+    },
+    "sizes": {
+      "h1": "28px",
+      "h2": "22px",
+      "body": "14px"
+    }
+  },
+  "voice": {
+    "tone": ["Técnico", "Confiable", "Directo", "Profesional", "Forense", "Peruano"],
+    "style": "Formal pero accesible. Léxico especializado. Español estándar peruano.",
+    "audience": "Abogados, investigadores, peritos, instituciones legales y corporativas"
+  },
+  "usage": {
+    "backgrounds": "Siempre navy #0D1B2A o #162336",
+    "accents": "Solo teal #4BA3C7 para destacar",
+    "avoid": ["Fondos claros", "Colores llamativos rojo/amarillo/verde"]
+  }
+}
